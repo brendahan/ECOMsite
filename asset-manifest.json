@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ce3ea1c.chunk.css",
+    "main.js": "/static/js/main.65bd4cfc.chunk.js",
+    "main.js.map": "/static/js/main.65bd4cfc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11f25901.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11f25901.js.map",
+    "static/js/2.8cbf54dc.chunk.js": "/static/js/2.8cbf54dc.chunk.js",
+    "static/js/2.8cbf54dc.chunk.js.map": "/static/js/2.8cbf54dc.chunk.js.map",
+    "static/js/3.b32946fd.chunk.js": "/static/js/3.b32946fd.chunk.js",
+    "static/js/3.b32946fd.chunk.js.map": "/static/js/3.b32946fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7ce3ea1c.chunk.css.map": "/static/css/main.7ce3ea1c.chunk.css.map",
+    "static/js/2.8cbf54dc.chunk.js.LICENSE.txt": "/static/js/2.8cbf54dc.chunk.js.LICENSE.txt",
+    "static/media/Blazer.2230d472.jpg": "/static/media/Blazer.2230d472.jpg",
+    "static/media/HIPhop.d1ac3886.jpg": "/static/media/HIPhop.d1ac3886.jpg",
+    "static/media/Reddress2.13e95cfe.jpg": "/static/media/Reddress2.13e95cfe.jpg",
+    "static/media/Shirtshorts.0b120d5e.jpg": "/static/media/Shirtshorts.0b120d5e.jpg",
+    "static/media/dblue.6a7d3bd8.jpg": "/static/media/dblue.6a7d3bd8.jpg",
+    "static/media/dress.23bb8f71.jpg": "/static/media/dress.23bb8f71.jpg",
+    "static/media/freedress.d9064e94.jpg": "/static/media/freedress.d9064e94.jpg",
+    "static/media/hearticon.20bd2777.png": "/static/media/hearticon.20bd2777.png",
+    "static/media/jeans.3b52150f.jpg": "/static/media/jeans.3b52150f.jpg",
+    "static/media/longcoat.826cd749.jpg": "/static/media/longcoat.826cd749.jpg",
+    "static/media/purple.35dc433b.jpg": "/static/media/purple.35dc433b.jpg",
+    "static/media/redress.e9fb9210.jpg": "/static/media/redress.e9fb9210.jpg",
+    "static/media/shirt1.0f6f7851.jpg": "/static/media/shirt1.0f6f7851.jpg",
+    "static/media/shirt3.0f6f7851.jpg": "/static/media/shirt3.0f6f7851.jpg",
+    "static/media/suspender.b6d2318a.jpg": "/static/media/suspender.b6d2318a.jpg",
+    "static/media/wallpaper.3ce23d51.jpg": "/static/media/wallpaper.3ce23d51.jpg",
+    "static/media/yellow.817c9dba.jpg": "/static/media/yellow.817c9dba.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11f25901.js",
+    "static/js/2.8cbf54dc.chunk.js",
+    "static/css/main.7ce3ea1c.chunk.css",
+    "static/js/main.65bd4cfc.chunk.js"
+  ]
+}
