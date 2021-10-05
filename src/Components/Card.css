@@ -1,0 +1,21 @@
+.productImg{
+    width: 150px;
+    height:200px;
+    object-fit: contain;
+}
+.productImg:hover{
+    transform: scale(2.5);
+
+}
+.card{
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 180px;
+    margin: 10px;
+    height:fit-content
+}
+.heart-icon{
+    max-width: 20%;
+    max-height: 20px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,13 @@
+.ui-main{
+    min-width:500px;
+    min-height: 350px;
+    margin-top: 50px;
+}
+.field{
+    width:80%;
+    padding: 20px;
+}
+.box{
+    width:80%;
+    
+}
