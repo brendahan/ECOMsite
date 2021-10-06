@@ -1,10 +1,10 @@
 import React from 'react'
+import './Footer.css'
 
 function Footer() {
     return (
         <div className='main-footer'>
-             <div className='top-footer'>&copy; Boona Bambale. All rights reserved </div>
-            
+    &copy; Boona Bambale. All rights reserved 
         </div>
     )
 }

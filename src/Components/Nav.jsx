@@ -28,7 +28,7 @@ function Nav() {
         </div>
         <div className="Menu-items">
           <ul>
-            <Link to="/home">
+            <Link to="/">
               <li>
                 <a href="home">Home</a>
               </li>

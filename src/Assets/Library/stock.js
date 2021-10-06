@@ -56,14 +56,14 @@ import topjeans from '../images/girls/topjeans.jpg'
         "price": 5900,
         "star": 5
       },
-      {
-        "id": 4,
-        "category":"men",
-        "product": "Tie&Dye",
-        "image": shirt3,
-        "price": 4900,
-        "star": 3
-      },
+      // {
+      //   "id": 4,
+      //   "category":"men",
+      //   "product": "Tie&Dye",
+      //   "image": shirt3,
+      //   "price": 4900,
+      //   "star": 3
+      // },
       {
         "id": 5,
         "category":"men",
@@ -97,22 +97,22 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 5900,
          "star": 3
        },
-       {
-         id: 9,
-         "category":"kitenge",
-         "product": "KitengeRed",
-         "image": red,
-         "price": 3300,
-         "star": 4
-       },
-       {
-       id: 10,
-         "category":"kitenge",
-         "product": "Kitenge1 ",
-         "image": dblue,
-         "price": 1850,
-         "star": 1
-       },
+      //  {
+      //    id: 9,
+      //    "category":"kitenge",
+      //    "product": "KitengeRed",
+      //    "image": red,
+      //    "price": 3300,
+      //    "star": 4
+      //  },
+      //  {
+      //  id: 10,
+      //    "category":"kitenge",
+      //    "product": "Kitenge1 ",
+      //    "image": dblue,
+      //    "price": 1850,
+      //    "star": 1
+      //  },
        {
          id: 11,
          "category":"kitenge",
@@ -137,14 +137,14 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 1800,
          "star": 1
        },
-       {
-         id: 14,
-         "category":"women",
-         "product": "Long Wrap Coat",
-         "image": longcoat,
-         "price": 2000,
-         "star": 3
-       },
+      //  {
+      //    id: 14,
+      //    "category":"women",
+      //    "product": "Long Wrap Coat",
+      //    "image": longcoat,
+      //    "price": 2000,
+      //    "star": 3
+      //  },
        {
          id: 15,
          "category":"women",
@@ -169,14 +169,14 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 5500,
          "star": 2
        },
-       {
-        id: 18,
-        "category":"women",
-        "product": "Top Dress",
-        "image": black,
-        "price": 5500,
-        "star": 2
-      },
+      //  {
+      //   id: 18,
+      //   "category":"women",
+      //   "product": "Top Dress",
+      //   "image": black,
+      //   "price": 5500,
+      //   "star": 2
+      // },
        {
         id: 19,
         "category":"women",
@@ -185,22 +185,22 @@ import topjeans from '../images/girls/topjeans.jpg'
         "price": 2000,
         "star": 3
       },
-      {
-        id: 20,
-        "category":"women",
-        "product": "Shirtdress",
-        "image": shirtdress,
-        "price": 5500,
-        "star": 3
-      },
-      {
-        id: 21,
-        "category":"women",
-        "product": "shorts",
-        "image": shorts,
-        "price": 5500,
-        "star": 2
-      },
+      // {
+      //   id: 20,
+      //   "category":"women",
+      //   "product": "Shirtdress",
+      //   "image": shirtdress,
+      //   "price": 5500,
+      //   "star": 3
+      // },
+      // {
+      //   id: 21,
+      //   "category":"women",
+      //   "product": "shorts",
+      //   "image": shorts,
+      //   "price": 5500,
+      //   "star": 2
+      // },
        {
         id: 22,
          "category":"girls",
@@ -209,14 +209,14 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 1800,
          "star": 2
        },
-       {
-         id: 23,
-         "category":"girls",
-         "product": "Dress1",
-         "image": dress1,
-         "price": 3500,
-         "star": 1
-       },
+      //  {
+      //    id: 23,
+      //    "category":"girls",
+      //    "product": "Dress1",
+      //    "image": dress1,
+      //    "price": 3500,
+      //    "star": 1
+      //  },
        {
          id: 24,
          "category":"girls",
@@ -234,22 +234,22 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 2470,
          "star": "4"
        },
-       {
-        id: 26,
-         "category":"girls",
-         "product": "Free pants",
-         "image": free,
-         "price": 5000,
-         "star": 5
-       }, 
-       {
-        id: 27,
-         "category":"boys",
-         "product": "suspender ",
-         "image": suspender,
-         "price": 1500,
-         "star": 2
-       },
+      //  {
+      //   id: 26,
+      //    "category":"girls",
+      //    "product": "Free pants",
+      //    "image": free,
+      //    "price": 5000,
+      //    "star": 5
+      //  }, 
+      //  {
+      //   id: 27,
+      //    "category":"boys",
+      //    "product": "suspender ",
+      //    "image": suspender,
+      //    "price": 1500,
+      //    "star": 2
+      //  },
        {
          id: 28,
          "category":"boys",
@@ -258,14 +258,14 @@ import topjeans from '../images/girls/topjeans.jpg'
          "price": 1900,
          "star": 1
        },
-       {
-         id: 29,
-         "category":"boys",
-         "product": "EasySmart",
-         "image": HIPhop,
-         "price": 2100,
-         "star": 5
-       },
+      //  {
+      //    id: 29,
+      //    "category":"boys",
+      //    "product": "EasySmart",
+      //    "image": HIPhop,
+      //    "price": 2100,
+      //    "star": 5
+      //  },
        {
          id: 30,
          "category":"boys",

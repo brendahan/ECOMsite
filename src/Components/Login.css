@@ -1,13 +1,46 @@
-.ui-main{
-    min-width:500px;
-    min-height: 350px;
-    margin-top: 50px;
+.ui-main {
+  min-width: 200px;
+  min-height: 350px;
+  margin-top: 50px;
 }
-.field{
-    width:80%;
-    padding: 20px;
+.ui-main h2 {
+  margin-bottom: 20px;
+  color: orangered;
 }
-.box{
-    width:80%;
-    
+.ui-form {
+  width: 500px;
+  margin: auto;
+  border: 1.5px solid orangered;
+  height: 320px;
+  background-color: whitesmoke;
+  border-radius: 8px;
+}
+.Email,
+.Name,
+.Password {
+  margin-top: 15px;
+  padding-left: 15px;
+}
+
+.nameBox {
+  background-color: whitesmoke;
+  color: black;
+  font-weight: bold;
+  font-size: 18px;
+}
+input[type="text"],
+[type="password"] {
+  padding: 10px;
+  width: 90%;
+  margin: auto;
+  font-size: 18px;
+  border-radius: 5px;
+}
+.submit {
+  margin-top: 15px;
+  font-weight: bold;
+}
+.signUp p {
+  margin-top: 10px;
+  font-weight: bold;
 }
