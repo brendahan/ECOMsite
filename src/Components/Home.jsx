@@ -59,13 +59,11 @@ function Home() {
               <option value="MENs style">Bags</option>
             </select>
           </p>
-          <a href="">
             <p className="reach">Contact-us</p>
-          </a>
         </div>
-        <div>
+        {/* <div>
           <img src=""></img>
-        </div>
+        </div> */}
         <div className="Center">
           <img className="wallpaper" src={wallpaper} alt="cover" />
         </div>

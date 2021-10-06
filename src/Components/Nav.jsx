@@ -12,15 +12,14 @@ function Nav() {
       <div className="cartArea">
         {" "}
         <h5>Our Apps available at</h5>
-        <a href="">
+      
           <img className="appstore" src={appstore} alt="appstore" />
-        </a>
-        <a href="">
+    
           <img className="googleplay" src={googleplay} alt="googleplay" />
-        </a>
-        <a href="">
+    
+      
           <img className="cart" src={cart} alt="cart" />
-        </a>
+      
       </div>
       <div className="top">
         <div className="logo">

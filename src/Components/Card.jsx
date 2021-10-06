@@ -5,9 +5,9 @@ import hearticon from '../Assets/images/kitenge/hearticon.png'
 function Card(props) {
     return (
         <div className='card'>
-            <a href=''><img className='productImg' src={props.image} /></a>
+            <img className='productImg' src={props.image} alt='clothes'/>
 <p className='productName'>{props.name}</p><h2 className='productPrice'>{props.price}</h2>
-<a href=""><img className='heart-icon' src={hearticon} alt='Girldress'/></a>  
+<img className='heart-icon' src={hearticon} alt='Girldress'/>
         </div>
     )
 }

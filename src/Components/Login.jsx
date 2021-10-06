@@ -39,9 +39,7 @@ function Login() {
             Login
           </button>
           <p>Don't have an account?</p>
-          <a href="#">
             <p>Sign-Up</p>
-          </a>
         </div>
       </form>
       <p>Your Email is: {email}</p>
